@@ -21,7 +21,7 @@ Generative AI generally works through the following steps:
 3. **Model Training:** Machine learning models learn patterns and relationships in the data.
 4. **Prompt Input:** Users provide instructions or questions to the model.
 5. **Content Generation:** The model generates an output based on the input and its learned patterns.
-6. **Evaluation:** The output can be reviewed for accuracy, relevance, and quality.
+6. **Evaluation:** The output can be reviewed for accuracy,relevance,and quality.
 
 ## Key Technologies Behind Generative AI
 
